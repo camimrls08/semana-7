@@ -1,0 +1,248 @@
+			html{
+				font-family: sans-serif;
+}
+			body {
+				background-color: ffffff;
+				font-family: "Lato", "Helvetica Neue",Helvetica,Arial,sans-serif;
+    			font-size: 1em;
+    			color: #333;
+}
+
+			footer a {
+				text-decoration: none;
+}
+
+			footer a:hover {
+				text-decoration: underline;
+}
+
+			footer a:visited {
+				color: #9FCACB;
+}
+
+			p {
+   				font-size: .8em;
+    			line-height: 1.75;
+    			font-weight: 300;
+}
+
+			.content {
+				min-height: 200px;
+				width: 75%;
+				margin: 0 auto;
+}
+
+			.nav {
+				width: 100%;
+				margin-bottom: 3%;
+				font-weight: 300;
+}
+
+			.logoCMJ{
+				display: inline;
+				margin-left: 360px;
+}
+
+
+			.logoCMJ img {
+				width: 70px;
+				height: auto;
+}
+
+			.navi {
+				display: inline-block;
+				text-align: right;
+				width: 100%;
+}
+
+			.navList {
+				display: inline-block;
+				list-style-type: none; 
+				margin-left: 3%;
+				padding-right: 3px;
+}
+
+			li.navList:first-child {
+				margin-left: 0;
+}
+
+			#navigation {
+				margin: 0;
+				padding-right:5px;
+
+}
+
+			li.navList a {
+				color: #4E575A;
+				text-decoration: none;
+				font-size: 1em;
+}
+
+			li.navList a:hover {
+				color: #9FCACB;
+}
+
+			a#selected {
+				color: #9FCACB;
+				font-weight: 500;
+}
+
+			footer {
+				background-color: white;
+				position: fixed;
+				bottom: 0;
+				left: 0;
+				width: 100%;
+				text-align: center;
+				padding: 1% !important;
+				margin: 0;
+				z-index: 999;
+}
+
+			footer p {
+				color: #666666;
+				font-size: .8em;
+}
+
+/*HOME PAGE*/
+			.logoCMJ1:hover {
+				cursor: default;
+				transform: rotate(360deg);
+				-ms-transform:rotate(360deg);
+				-webkit-transform:rotate(360deg);
+				-o-transition: all 0.8s ease-in-out 0s;
+
+}
+			.logoCMJ1 {
+				text-align: center;
+				transition: all 0.8s ease-in-out 0s;
+
+}
+			* {
+				-webkit-box-sizing:border-box;
+				-moz-box-sizing:border-box;
+				box-sizing: border-box;
+}
+			div {
+				display: block;
+			}
+			.nav1 {
+				width: 100%;
+				position: absolute;	
+				top: 20%;
+				left: 0;
+}
+
+			.navbar1 {
+				text-align: center;
+}
+
+			ul#navigation1 {
+				margin: 0;
+				padding: 0;
+				font-weight: 300;
+}
+
+			li.navList1 {
+				display: inline-block;
+				list-style-type: none; 
+				margin-left: 2%;
+}
+
+			li.navList1 a {
+				color: #4E575A;
+				text-decoration: none;
+				font-size: 1em;
+}
+
+			li.navList1 a:hover {
+				color: #9FCACB;
+}
+
+/*ABOUT*/
+			h1{
+				text-align: center;
+				color: #4E575A;
+				text-decoration: none;
+				font-size: 1em;
+    			font-family: sans-serif;
+    
+}
+
+}
+			img.me {
+				width: 100%;
+				margin: 2% 0;
+}
+
+			p.bottom {
+				margin-bottom: 8%;
+				margin-left: 1.5%;
+}
+
+/*PORTFOLIO*/
+
+			.Portfolio{
+				text-align: center;
+				font-size: 1.5em;
+				font-weight: 300;
+				margin-top: 15%;
+}
+}
+
+/* RÉSUMÉ*/
+
+			.resume{
+				color: #9FCACB;
+				text-decoration: none;
+			}
+
+			a.resume {
+				color: #9FCACB;
+				text-decoration: none;
+
+}
+
+			a.resume:hover {
+				text-decoration:none;
+}
+
+			img.bottom {
+				margin-bottom: 8%;
+}
+
+			p.download {
+				font-size: 1.2em;
+				font-weight: 400;
+				text-align: center;
+				margin-top: 2%;
+}
+
+/* CONTACT PAGE */
+
+			.social {
+				text-align: center;
+}
+
+			.social ul {
+				list-style-type: none;
+}
+
+			.social ul li {
+				display: inline-block;
+}
+
+			.social ul li span {
+				color: #4E575A;
+}
+
+			.social ul li span:hover {
+				color: #9FCACB;
+}
+
+			p.contact {
+				text-align: center;
+				font-size: 1.5em;
+				font-weight: 300;
+				margin-top: 15%;
+}
